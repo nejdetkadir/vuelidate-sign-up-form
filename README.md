@@ -1,6 +1,12 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/097fed5e41c94a638bdb7ecc35914aac)](https://www.codacy.com/gh/nejdetkadir/vuelidate-sign-up-form/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nejdetkadir/vuelidate-sign-up-form&amp;utm_campaign=Badge_Grade)
 
 # simple-vuelidate-sign-up-form
+How to use [vuelidate](https://vuelidate.js.org/) in sample sign up form for learning it. Enjoy it!
+
+![cover](doc/cover.png)
+
+## Demo
+[Live demo](https://demo.nejdetkadirbektas.com/vuelidate-sign-up-form/)
 
 ## Project setup
 ```
